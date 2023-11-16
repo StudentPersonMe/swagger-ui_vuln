@@ -4,7 +4,7 @@ info:
   title: Deloitte Api
   version: '1.0'
 paths:
-  "/path/exploited/by/deloitte":
+  "/opal-batch-cubic-ingestion/v1/ctp/trigger-ingestion":
     post:
       tags:
       - deloitte
