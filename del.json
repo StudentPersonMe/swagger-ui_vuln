@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/StudentPersonMe/swagger-ui_vuln/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/StudentPersonMe/swagger-ui_vuln/main/del.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/StudentPersonMe/swagger-ui_vuln/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/StudentPersonMe/swagger-ui_vuln/main/del.yaml",
             "name": "deloitte"
         }
     ]
