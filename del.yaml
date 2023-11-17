@@ -9,7 +9,6 @@ paths:
       tags:
       - deloitte
       parameters:
-      - name: deloitte
       - in: query
          name: status
          schema:
