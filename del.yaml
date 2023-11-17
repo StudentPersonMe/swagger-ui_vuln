@@ -10,3 +10,9 @@ paths:
       - deloitte
       parameters:
       - name: deloitte
+      - in: query
+         name: status
+         schema:
+           type: string
+           enum: [approved, pending, closed, new]
+           example: approved
